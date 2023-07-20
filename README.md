@@ -1,4 +1,4 @@
-7## Meu Perfil
+## Meu Perfil
 
 ### Sobre
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universitário na área do desenvolvimento de software, amante da tecnologia e todos os benefícios trazidos por ela. Buscando sempre melhorar minhas soluções através de análise e reflexão.
