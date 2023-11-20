@@ -7,7 +7,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" width="40" height="40"/>
 
-### Tecnologias e Ferramentas que estou aperfeiçoando
+### Tecnologias e Ferramentas em que estou me aperfeiçoando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" width="40" height="40"/>
 
