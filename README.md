@@ -11,7 +11,7 @@ Meu objetivo é aprender cada vez mais, agregar valor e buscar cada vez mais fac
 
 ### Tecnologias e Ferramentas 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg" width="40" height="40"/> 
 
 #### Contatos:
 
